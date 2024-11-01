@@ -1,8 +1,6 @@
 import PropTypes from 'prop-types';
 
 const Recipe = ({ recipe }) => {
-    console.log(recipe);
-
     return (
         <div className="card border border-[#e0e0e2]">
             <figure className="p-4">
