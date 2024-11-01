@@ -1,0 +1,152 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Grilled Chicken Salad",
+        "recipe_image": "https://img.freepik.com/free-photo/piece-chicken-caesar-salad_1147-400.jpg?t=st=1730474249~exp=1730477849~hmac=c518bfb7bf49219daaea6c510548e15aaf42d65503e6e835be9d1e555bf06220&w=826",
+        "short_description": "A healthy and refreshing grilled chicken salad with fresh veggies and a light vinaigrette.",
+        "ingredients": [
+            "400 g chicken breast",
+            "100 g mixed greens",
+            "50 g cherry tomatoes",
+            "30 ml olive oil",
+            "20 ml balsamic vinegar"
+        ],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://img.freepik.com/free-photo/classic-homemade-carbonara-pasta-with-pancetta-egg-hard-parmesan-cheese-cream-sauce_2829-4790.jpg?t=st=1730474308~exp=1730477908~hmac=6771f7c2aa7feca30916ceca95caf1e9b38115737b0d2cf12d3d546c29e3c995&w=826",
+        "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "200 g spaghetti",
+            "100 g pancetta",
+            "2 eggs",
+            "50 g parmesan cheese",
+            "1 tsp black pepper"
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "recipe_image": "https://img.freepik.com/free-photo/stir-fry-chicken-sweet-peppers-green-beans_2829-20110.jpg?t=st=1730474352~exp=1730477952~hmac=86802b738dd5f66738a6e5a26f422f180c4aa1d23e6f776ef650115c6eb1cfb2&w=826",
+        "short_description": "A quick and easy vegetable stir-fry with soy sauce and garlic.",
+        "ingredients": [
+            "150 g broccoli",
+            "100 g bell peppers",
+            "50 g carrots",
+            "30 ml soy sauce",
+            "1 garlic clove"
+        ],
+        "preparing_time": "15 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Chicken Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/mexican-food-concept-high-angle_23-2148629376.jpg?t=st=1730474394~exp=1730477994~hmac=3b8358ee65eb3ace229c572d0a7e9a0be5eb27d94e52b338eac8d1820ba9e810&w=826",
+        "short_description": "Delicious and easy chicken tacos with fresh toppings and soft tortillas.",
+        "ingredients": [
+            "300 g chicken breast",
+            "4 soft tortillas",
+            "50 g lettuce",
+            "30 g cheddar cheese",
+            "50 g salsa"
+        ],
+        "preparing_time": "30 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Beef Stir-Fry",
+        "recipe_image": "https://img.freepik.com/free-photo/stir-frying-beef-with-sweet-peppers-green-beans_2829-20111.jpg?t=st=1730474451~exp=1730478051~hmac=fbb10de13b142a7848469dfd1f4c6858630b43df838cecc924bd21abac2b8829&w=826",
+        "short_description": "A flavorful beef stir-fry with fresh vegetables and a savory sauce.",
+        "ingredients": [
+            "200 g beef strips",
+            "100 g snap peas",
+            "50 g bell peppers",
+            "30 ml soy sauce",
+            "1 tsp sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "370 calories"
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Mushroom Risotto",
+        "recipe_image": "https://img.freepik.com/free-photo/mushroom-risotto-garnished-with-grated-parmesan-parsley_141793-1932.jpg?t=st=1730474488~exp=1730478088~hmac=b8ccf2e42a35312c3aa0ec5c4270d0ba1ffb96093050460da61779c87c35165d&w=826",
+        "short_description": "A creamy and rich mushroom risotto with parmesan and fresh herbs.",
+        "ingredients": [
+            "200 g arborio rice",
+            "150 g mushrooms",
+            "1 onion",
+            "50 g parmesan cheese",
+            "500 ml vegetable broth"
+        ],
+        "preparing_time": "40 min",
+        "calories": "500 calories"
+    },
+    {
+        "recipe_id": 7,
+        "recipe_name": "Fish Tacos",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-tacos-with-shrimps_23-2148629378.jpg?t=st=1730474525~exp=1730478125~hmac=d426ba1d158d42681ffab6a4569344c6fb5c9798fab6156ab4cd8e34fde396f9&w=826",
+        "short_description": "Fresh and zesty fish tacos with a tangy lime sauce and cabbage slaw.",
+        "ingredients": [
+            "200 g white fish",
+            "4 soft tortillas",
+            "50 g cabbage slaw",
+            "30 ml lime juice",
+            "20 g sour cream"
+        ],
+        "preparing_time": "25 min",
+        "calories": "300 calories"
+    },
+    {
+        "recipe_id": 8,
+        "recipe_name": "Eggplant Parmesan",
+        "recipe_image": "https://img.freepik.com/free-photo/prepared-gratin-dish-raw-eggplant-with-mozzarella-tomatoes_2829-19716.jpg?t=st=1730474578~exp=1730478178~hmac=c16d41d694f8fc888daca31b5f0624fe724de0f88413ab102a766dc0077aaa2d&w=826",
+        "short_description": "A baked eggplant dish with marinara sauce and melted mozzarella cheese.",
+        "ingredients": [
+            "1 eggplant",
+            "200 ml marinara sauce",
+            "100 g mozzarella cheese",
+            "50 g parmesan cheese",
+            "50 g breadcrumbs"
+        ],
+        "preparing_time": "45 min",
+        "calories": "550 calories"
+    },
+    {
+        "recipe_id": 9,
+        "recipe_name": "Chicken Curry",
+        "recipe_image": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?t=st=1730474614~exp=1730478214~hmac=22628f308d3318607c5318ee9402df27caad864b0e8fcc23f9385625e5b4a978&w=740",
+        "short_description": "A flavorful chicken curry cooked with a blend of spices and coconut milk.",
+        "ingredients": [
+            "400 g chicken thighs",
+            "1 onion",
+            "200 ml coconut milk",
+            "30 g curry powder",
+            "100 g tomatoes"
+        ],
+        "preparing_time": "35 min",
+        "calories": "600 calories"
+    },
+    {
+        "recipe_id": 10,
+        "recipe_name": "Vegan Buddha Bowl",
+        "recipe_image": "https://img.freepik.com/free-photo/tasty-healthy-oatmeal-porridge-with-fruit-berry-flax-seeds-healthy-breakfast-fitness-food-proper-nutrition_2829-11190.jpg?t=st=1730474647~exp=1730478247~hmac=9aad023a5875ce7c1d05e3cdc9f9084a5f196e221f95a49d635685fe5c2a8453&w=826",
+        "short_description": "A colorful and nutritious bowl filled with quinoa, roasted vegetables, and tahini dressing.",
+        "ingredients": [
+            "100 g quinoa",
+            "50 g sweet potatoes",
+            "30 g spinach",
+            "30 ml tahini",
+            "20 ml lemon juice"
+        ],
+        "preparing_time": "30 min",
+        "calories": "400 calories"
+    }
+]
