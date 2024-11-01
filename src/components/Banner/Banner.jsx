@@ -13,12 +13,11 @@ const Banner = () => {
                 <div className="mt-24">
                     <h1 className="mb-5 text-5xl font-bold">Discover an exceptional cooking class tailored for you!</h1>
                     <p className="mb-5">
-                        Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
+                    Join our hands-on courses to master culinary techniques, explore global cuisines, and elevate your cooking skills to new heights.
                     </p>
                     <div className='space-x-6 pt-4 pb-24'>
                         <button className="btn bg-[#0BE58A] rounded-[50px] border-none">Explore Now</button>
                         <button className="btn rounded-[50px] border border-white">Our Feedback</button>
-
                     </div>
                 </div>
             </div>
