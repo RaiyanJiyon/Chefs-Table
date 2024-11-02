@@ -13,7 +13,7 @@ const Recipes = () => {
     }, [])
 
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-11/12 mx-auto mt-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-[70%] mt-12">
             {
                 recipes.map((recipe, index) => (
                     <Recipe
