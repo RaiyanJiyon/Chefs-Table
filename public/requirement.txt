@@ -1,0 +1,90 @@
+Here’s your text file organized in a clearer and more structured way:
+
+---
+
+# Main Requirements
+
+## 1. Follow the Figma Design
+- Your website design should be similar to the Figma.
+- You can change the color, but choose a color palette that will be pleasing to the eye.
+
+## 2. NavBar
+- A navbar with:
+  - Website name or logo on the left side. ✅
+  - 4 menu items in the middle: Home, Recipes, About, and Search. ✅
+  - A search bar with a search icon and search text. ✅
+  - A user icon on the right side. ✅
+
+## 3. Banner Section
+- It will contain:
+  - A banner with a background image. ✅
+  - A title. ✅
+  - A short description. ✅
+  - Two buttons named **Explore Now** and **Our Feedback**. ✅
+- Don’t use lorem ipsum text. ✅
+
+## 4. JSON File 
+- Create a JSON file with a minimum of 6 data entries. Each entry will contain:
+  1. **Recipe image** ✅
+  2. **recipe_id** ✅
+  3. **Recipe name** ✅
+  4. **Short description** ✅
+  5. **Ingredients** in an array. ✅ 
+     For example:  
+     ```json
+     ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"]
+     ```
+  6. **Preparing time** (e.g., 30 min) ✅
+  7. **Calories** (e.g., 320 calories) ✅
+
+## 5. Our Recipes Section
+- This section will contain:
+  - A heading named "Our Recipes." ✅
+  - A short description at the beginning. ✅  
+  Don’t use lorem ipsum text. ✅
+
+## 6. Recipe Card Section
+- The left side of the page will contain a minimum of 6 recipe cards. ✅
+- Each card will display:
+  1. **Recipe image** ✅
+  2. **Recipe name** ✅
+  3. **Short description** ✅
+  4. **Ingredients length** & show ingredients in an unordered list ✅
+  5. **Preparing time** ✅
+  6. **Calories** ✅
+  7. A button named **Want to Cook** ✅
+
+## 7. SideBar
+- When you click on the **Want to Cook** button, it will add the selected recipe to the sidebar’s "Want to Cook" table.
+  1. Increase the count of the "Want to Cook" table.
+  2. In the "Want to Cook" table, for each entry show:
+     - Recipe name
+     - Preparation time
+     - Calories
+     - A **Preparing** button
+  3. You cannot select a single recipe more than once. If you try to click the **Want to Cook** button more than once, it will show a toast message.
+
+---
+
+# Challenges Requirements
+
+- When you click the **Preparing** button of a recipe:
+  1. It will remove the recipe from the "Want to Cook" table.
+  2. Decrease the count of the "Want to Cook" table.
+  3. Add it to the "Currently Cooking" table.
+  4. In the "Currently Cooking" table, each entry will display:
+     - Recipe name
+     - Preparation time
+     - Calories
+  5. Increase the count of the "Currently Cooking" table.
+
+---
+
+# Optional (Recommended to Implement)
+
+- Below the tables, calculate the total **preparation time** and **total calories** of the added recipes.
+- Make the website **responsive** for mobile devices.
+
+--- 
+
+This version organizes the information into well-defined sections and bullet points for better readability and clarity.
